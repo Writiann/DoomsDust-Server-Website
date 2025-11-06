@@ -1,13 +1,15 @@
-# 项目标题
+# 末日余烬服务器
 <div align="center">
   <img src="logo.png" alt="Logo" width="200"/>
-  <p>简短的项目描述,一句话说明核心功能</p>
+  <p>末日余烬更新公告都将发布在这里,请多多关注哦</p>
   
   ![GitHub stars](https://img.shields.io/github/stars/username/repo)
-  ![License](https://img.shields.io/badge/license-MIT-blue)
+  ![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
   ![Version](https://img.shields.io/badge/version-1.0.0-green)
 </div>
-
+  <img src="wechat.png" alt="Logo" width="200"/>
+  <p>如果觉得服务器做的不错,可以赞助此项目,这对我帮助很大</p>
+  <p>请务必通过付款备注的方式留下你的游戏内ID,以便获取独家的赞助收藏品~</p>
 ---
 
 ## ✨ 特性
