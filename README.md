@@ -6,11 +6,11 @@
   ![GitHub stars](https://img.shields.io/github/stars/username/repo)
   ![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
   ![Version](https://img.shields.io/badge/version-1.0.0-green)
-</div>
-  <img src="wechat.png" alt="Logo" width="200"/>
+
+  <img src="wechat.jpg" alt="收款码" width="200"/>
   <p>如果觉得服务器做的不错,可以赞助此项目,这对我帮助很大</p>
   <p>请务必通过付款备注的方式留下你的游戏内ID,以便获取独家的赞助收藏品~</p>
----
+</div>
 
 ## ✨ 特性
 
