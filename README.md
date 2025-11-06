@@ -3,7 +3,7 @@
   <img src="icon.png" alt="Logo" width="300"/>
   <p>末日余烬更新公告都将发布在这里,请多多关注哦</p>
   
-  ![GitHub stars](https://img.shields.io/github/stars/username/repo)
+  ![GitHub stars](https://img.shields.io/github/stars/Writiaan/repo)
   ![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
   ![Version](https://img.shields.io/badge/version-1.0.0-green)
 
