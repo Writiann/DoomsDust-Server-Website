@@ -1,44 +1,30 @@
 # 末日余烬服务器
+
 <div align="center">
   <img src="icon.png" alt="Logo" width="600"/>
   <p>末日余烬更新公告都将发布在这里,请多多关注哦</p>
   
   ![GitHub stars](https://img.shields.io/github/stars/Writiaan/DoomsDust-Server-Website)
   ![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
-  ![Version](https://img.shields.io/badge/version-1.0.0-green)
+  ![Version](https://img.shields.io/badge/version-1.1.0-green)
 
   <img src="wechat.jpg" alt="收款码" width="300"/>
   <p>如果觉得服务器做的不错,可以赞助此项目,这对我帮助很大</p>
   <p>请务必通过付款备注的方式留下你的游戏内ID,以便获取独家的赞助收藏品~</p>
 </div>
 
-## ✨ 特性
-
-- 🚀 特性1 - 简短描述
-- 💡 特性2 - 简短描述
-- 🎯 特性3 - 简短描述
-
-## 📦 安装
-
-\`\`\`bash
-npm install your-package
-\`\`\`
-
-## 🚀 快速开始
-
-\`\`\`javascript
-// 简单示例代码
-const example = require('your-package')
-\`\`\`
-
-## 📖 文档
-
-详细文档请查看 [Wiki](链接)
-
 ## 🤝 贡献
+对本项目有过贡献的成员都将会出现在这里,现在空空荡荡...
 
-欢迎提交 Issue 和 Pull Request
+
+## ✨ 更新日志
+
+### v1.0.5
+§l服务器资源包已经更新,所有玩家需要在设置中删除资源包下载缓存后重新进入服务器,否则会出现材质包bug!§r
+这个版本修复了许多bug,加入了第一次公告,下一次更新将会是删档更新.会修复如失落者城镇僵尸过于密集的许多地图问题,在此之前§e限时提高失落者城镇爆率§r,直到下个版本更新.
+与此同时,幸存者/感染者伤害得到了加强,近战伤害削弱,霰弹枪增强,战备券统一更改为低级战备券,限量改为每日10张.
+公会系统实装,当前版本§c不推荐创建§r,下个版本会在商城中更新建筑包~
 
 ## 📄 许可
 
-MIT License
+请参阅 GNU License
