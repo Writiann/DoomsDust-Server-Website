@@ -1,13 +1,12 @@
 # 末日余烬服务器
 
 <div align="center">
-  <img src="icon.png" alt="Logo" width="600"/>
-  <p>末日余烬更新公告都将发布在这里,请多多关注哦</p>
+
   
 
   <img src="logo.png" alt="LogoWide" width="600"/>
 
-
+  <p>末日余烬更新公告都将发布在这里,请多多关注哦</p>
   <p>如果觉得服务器做的不错,可以赞助此项目,这对我帮助很大</p>
   <img src="wechat.jpg" alt="收款码" width="300"/>
 
